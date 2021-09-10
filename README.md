@@ -1,5 +1,4 @@
-- 👑 Server owner [GuestMC]()
-- 👑 Server owner at **GuestMC**
+- 👑 Server owner [GuestMC](https://discord.gg/4Vwqu6x)
 
 - 🌱 Learning **Java, PHP & Python**
 
