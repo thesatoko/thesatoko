@@ -7,7 +7,7 @@
 
 - 👯 Working on **RivalsNetwork.hu** projects
 
-- 👮‍♂️ Staff at **[Fusion Anti-Cheat](https://discord.gg/4Vwqu6x)
+- 👮‍♂️ Staff at **[Fusion Anti-Cheat](https://discord.gg/4Vwqu6x)**
  
 - 💬 Discord: **Satoko#1337**
 
