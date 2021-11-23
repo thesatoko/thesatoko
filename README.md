@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satoko</h1>
-<h3 align="center">I'm just a simple high-school student who lives in Hungary. 👨‍🎓</h3>
+<h3 align="center">I'm just a simple secondary-school student who lives in Hungary. 👨‍🎓</h3>
 
 - 👑 Managing Director of **[Suli-WiFi](https://discord.gg/4Vwqu6x)**
 
