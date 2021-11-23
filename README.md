@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satoko</h1>
-<h3 align="center">Secondary school student</h3>
+<h3 align="center">Secondary school student 👨‍🎓</h3>
 
-- 👑 Server owner at [GuestMC](https://discord.gg/4Vwqu6x)
+- 👑 Managing Director of [Suli-WiFi](https://discord.gg/4Vwqu6x)
 
-- 🌱 Learning **Java, PHP & Python**
+- 🌱 Learning **Java, HTML & Python**
 
-- 👯 Working on guestmc.hu & **Suli-WiFi** projects
-- 💬 Discord: **satoko#7582**
+- 👯 Working on **RivalsNetwork.hu** projects
+ 
+- 💬 Discord: **Satoko#1337**
 
