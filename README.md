@@ -5,7 +5,7 @@
 
 - 🌱 Learning **Java, HTML & Python**
 
-- 👯 Working on **RivalsNetwork.hu** project
+- 👯 Working on **???** project
 
 - 👮‍♂️ Staff at **[Fusion Anti-Cheat](https://fusion.ac)**
  
