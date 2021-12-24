@@ -5,8 +5,6 @@
 
 - 🌱 Learning **Java, HTML & Python**
 
-- 👯 Working on **???** project
-
 - 👮‍♂️ Staff at **[Fusion Anti-Cheat](https://fusion.ac)**
  
 - 💬 Discord: **Satoko#1337** *(491973404434628617)*
