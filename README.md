@@ -7,5 +7,5 @@
 
 - 👮‍♂️ Staff at **[Fusion Anti-Cheat](https://fusion.ac)**
  
-- 💬 Discord: **Satoko#1000** / **[Click](https://discord.gg/Satoko#1000)**
+- 💬 Discord: **[Satoko#1000](https://discord.com/users/491973404434628617)**
 
