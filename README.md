@@ -5,8 +5,8 @@
 
 - 👨‍🔧 **Server Manager** of [FyreMC](https://www.fyremc.hu)
 
-- 👷‍♂️ **Process Manager** f [Fusion Anti-Cheat](https://fusion.ac)
+- 👷‍♂️ **Process Manager** of [RivalsNetwork](https://bolt.rivalsnetwork.hu)
  
-- 💬 Discord: **[Satoko#1000](https://discord.com/users/491973404434628617)**
+- 💬 Discord profile: **[Satoko#1000](https://discord.com/users/491973404434628617)**
 
 
