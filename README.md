@@ -3,8 +3,6 @@
 
 - 👑 Managing Director of **[Suli-WiFi](https://discord.gg/4Vwqu6x)**
 
-- 👨‍🔧 Server Manager of **[FyreMC](https://www.fyremc.hu)**
-
 - 👷‍♂️ Process Manager of **[RivalsNetwork](https://bolt.rivalsnetwork.hu)**
  
 - 💬 Discord profile: **[Satoko#1000](https://discord.com/users/491973404434628617)**
