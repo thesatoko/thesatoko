@@ -16,4 +16,4 @@ I am currently in secondary school. 👨‍🎓
    * **Telegram**: [TheSatoko](https://t.me/TheSatoko)
 
 ## `Spotify`
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=fda84xro7r3mo6y37gcpa6294&count={count})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=fda84xro7r3mo6y37gcpa6294&count=5)
