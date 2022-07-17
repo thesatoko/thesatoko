@@ -2,7 +2,7 @@
 <h1 align="center">TheSatoko</h1>
 
 # Welcome to my profile! My name is TheSatoko. :wave: 
-I am currently in secondary school. :flag_hu:
+I am currently in secondary school. 👨‍🎓
 
 ## `Previous / Current Projects`
 * **Managing- & Production Director** @ **[Suli-WiFi](https://suli-wifi.hu)** (2019-)
