@@ -2,21 +2,21 @@
 <h1 align="center">TheSatoko</h1>
 
 # Welcome to my profile! My name is TheSatoko. 👋 
-I am currently in secondary school 🇭🇺
+I am currently in secondary school. 🇭🇺
 
-## Current Projects
+## `Current Projects`
 * 2019- @ **[Suli-WiFi](https://suli-wifi.hu)**
   * Managing- & Production Director
   * Founder
-* 2022- @ **[OneChunk](https//onechunk.hu)
+* 2022- @ **[OneChunk](https//onechunk.hu)**
   * Manager
-* 2021- @ **[RivalsNetwork](https://rivalsnetwork.hu)
+* 2021- @ **[RivalsNetwork](https://rivalsnetwork.hu)**
   * Process Manager & Lead Staff
   * Sever Management
-* **2022- @ ???**
+* 2022- @ **???**
   * ???
 
-## Previous Projects
+## `Previous Projects`
 
 * **2022 @ **[FyreMC](https://www.fyremc.hu) (2021-)**
   * Server Management
