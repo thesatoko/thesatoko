@@ -18,7 +18,7 @@ I am currently in secondary school. 🇭🇺
 
 ## `Previous Projects`
 
-* **2022 @ **[FyreMC](https://www.fyremc.hu) (2021-)**
+* 2022 @ **[FyreMC](https://www.fyremc.hu) (2021-)**
   * Server Management
 
 ## `Contact`
