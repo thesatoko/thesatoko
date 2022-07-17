@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://media.discordapp.net/attachments/807721397576663050/998182675644948550/sw1transparent.png?width=375&height=375" alt="Logo" width="200" height="200"> </a>
-<h1 align="center">TheSatoko</h1>
+<h1 align="center">TheSatoko, Founder of SuliWiFi</h1>
 
 # Welcome to my profile! My name is TheSatoko. :wave: 
 I am currently in secondary school. 👨‍🎓
