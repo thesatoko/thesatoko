@@ -12,8 +12,8 @@ I am currently in secondary school. :flag_hu:
 * **Server Management** @  **[FyreMC](https://www.fyremc.hu)** (2022)
 
 ## `Contact`
-    * **Discord**: [Satoko#1000](https://discord.com/users/491973404434628617)
-    * **Telegram**: [TheSatoko](https://t.me/TheSatoko)
+   * **Discord**: [Satoko#1000](https://discord.com/users/491973404434628617)
+   * **Telegram**: [TheSatoko](https://t.me/TheSatoko)
 
 ## `Spotify`
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=fda84xro7r3mo6y37gcpa6294&count={5})
